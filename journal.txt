@@ -4,4 +4,5 @@ Title: My Paper!
 Introduction: Introduction part goes here
 Data: On the way
 Analysis: Once I got the data
-Conclusion: 
+Conclusion: Yes! 
+
