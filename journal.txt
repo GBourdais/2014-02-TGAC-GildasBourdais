@@ -1,7 +1,7 @@
-Authors:
-Title:
+Authors: Gildas Bourdais
+Title: My Paper!
 
-Introduction:
-Data:
-Analysis:
-Conclusion:
+Introduction: Introduction part goes here
+Data: On the way
+Analysis: Once I got the data
+Conclusion: 
