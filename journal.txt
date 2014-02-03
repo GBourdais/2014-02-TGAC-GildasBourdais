@@ -1,8 +1,8 @@
-Authors: Gildas Bourdais
-Title: My Paper!
+Authors: John John, Gildas Bourdais
+Title: My Paper! Not anymore :-(
 
 Introduction: Introduction part goes here
-Data: On the way
+Data: On the way + add John's data
 Analysis: Once I got the data
 Conclusion: Yes! 
 
