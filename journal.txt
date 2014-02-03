@@ -1,8 +1,9 @@
-Authors: Gildas Bourdais
-Title: My Paper!
+Authors: John John, Gildas Bourdais
+Title: My Paper! Not anymore :-(
 
 Introduction: Introduction part goes here
-Data: On the way. Nerver been that close!
+Data: On the way. Nerver been that close!With John's Data
+
 Analysis: Once I got the data
 Conclusion: Yes! 
 
